@@ -1,0 +1,61 @@
+.panda-search-box input {
+    background-color: #F1F1F1;
+    width: 100%;
+    outline: 0;
+    border: 0;
+    padding: 10px 20px;
+}
+.panda-search-box button {
+    outline: 0;
+    border: 0;
+    padding: 10px 20px;
+}
+
+
+/*------------------ image slider styles override---------- */
+
+.panda-bg-info {
+    background: #FEEAE9;
+    border-radius: 10px;
+}
+.panda-bg-info h2 {
+    color: #FF136F;
+}
+.panda-bg-info a {
+    background: linear-gradient(to bottom, #FF589B, #FF136F);
+    border-radius: 6px;
+}
+
+/* --------------------categories custom styles------------------ */
+
+.panda-category-1 {
+    background: linear-gradient(to bottom, #FF9C35, #FFD019);
+    border-radius: 10px;
+}
+.panda-category-2 {
+    background: linear-gradient(to bottom, #FF589B, #FF136F);
+    border-radius: 10px;
+}
+.panda-category-3 {
+    background: linear-gradient(to bottom, #4289FF, #3F07F8);
+    border-radius: 10px;
+}
+
+.panda-card {
+    border-radius: 15px;
+}
+
+
+
+/* --------------------subscribe custom styles------------- */
+
+.panda-sub {
+    background: #FEEAE9;
+}
+.panda-sub input {
+    width: 100%;
+}
+.panda-sub button {
+    width: 100px;
+    background: linear-gradient(to bottom, #FF589B, #FF136F);
+}
